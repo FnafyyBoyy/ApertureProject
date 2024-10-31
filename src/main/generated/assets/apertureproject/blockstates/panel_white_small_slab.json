@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "apertureproject:block/panel_white_small_slab"
+    },
+    "type=double": {
+      "model": "apertureproject:block/panel_white_small"
+    },
+    "type=top": {
+      "model": "apertureproject:block/panel_white_small_slab_top"
+    }
+  }
+}

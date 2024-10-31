@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "apertureproject:block/panel_black",
+    "side": "apertureproject:block/panel_black",
+    "top": "apertureproject:block/panel_black"
+  }
+}
